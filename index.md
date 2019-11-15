@@ -20,7 +20,7 @@
 <img src="images/risk_prediction.png?raw=true"/>
 
 
-[Home Price Prediction in San Francisco](/portfolio_materials/Dodson_Ben_Price_Prediction.html)
+[Home Price Prediction in San Francisco]("/portfolio_materials/Dodson_Ben_Risk_Prediction.html")
 <img src="images/price_prediction.png?raw=true"/>
 
 ---
