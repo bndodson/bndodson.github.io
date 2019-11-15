@@ -16,7 +16,7 @@
 <img src="images/bike_share.png?raw=true"/>
 
 
-[Crime Prediction in Chicago](/portfolio_materials/Dodson_Ben_Risk_Prediction.html)
+[Crime Prediction in Chicago](/portfolio_materials/Ben_Dodson_Risk_Prediction.html)
 <img src="images/risk_prediction.png?raw=true"/>
 
 
