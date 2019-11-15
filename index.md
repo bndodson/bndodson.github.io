@@ -4,11 +4,11 @@
 
 ### Python Projects
 
-[Center City Crash Index](/portfolio_materials/crash_index.html)
+[Center City Crash Index](/portfolio_materials/Dodson_Ben_Crash_Index.html)
 <br><br>
 <img src="images/crash_index.png?raw=true"/>
 
-[Philadelphia Parking Violations](/portfolio_materials/pparking_violations)
+[Philadelphia Parking Violations](/portfolio_materials/Dodson_Ben_Parking_Violations.html)
 <br><br>
 <img src="images/parking_violations.gif?raw=true"/>
 
