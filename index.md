@@ -15,9 +15,20 @@
 [Boston Bike Share](/portfolio_materials/Dodson_Ben_Bike_Share.html)
 <img src="images/bike_share.png?raw=true"/>
 
+
+[Crime Prediction in Chicago](/portfolio_materials/Dodson_Ben_Risk_Prediction.html)
+<img src="images/risk_prediction.png?raw=true"/>
+
+
+[Home Price Prediction in San Francisco](/portfolio_materials/Dodson_Ben_Price_Prediction.html)
+<img src="images/price_prediction.png?raw=true"/>
+
 ---
 
+### Writing
 
+[Algorithmic Fairness Memo](/portfolio_materials/Dodson_Ben_Algorithm_Fairness.pdf)
+<img src="images/algorithm_fairness.png?raw=true"/>
 
 
 ---
