@@ -5,6 +5,7 @@
 ### Python Projects
 
 [Center City Crash Index](/portfolio_materials/crash_index.html)
+<br><br>
 <img src="images/crash_index.png?raw=true"/>
 
 ---
