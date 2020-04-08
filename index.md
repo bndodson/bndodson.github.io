@@ -34,6 +34,8 @@
 [Algorithmic Fairness Memo](/portfolio_materials/Dodson_Ben_Algorithm_Fairness.pdf)
 <img src="images/algorithm_fairness.png?raw=true"/>
 
+[Rhawnhurst Neighborhood School Profile](/portfolio_materials/Dodson_Ben_Rhawnhurst.pdf)
+<img src="images/rhawn.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
